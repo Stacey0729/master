@@ -1,0 +1,3 @@
+this file be committed by ssh,it is very easy.just creat ssh pulib key,and then git clone via ssh,git add 
+git commit -m ""
+git push
